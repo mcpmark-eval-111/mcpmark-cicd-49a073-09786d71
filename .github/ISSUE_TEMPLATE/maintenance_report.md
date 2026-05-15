@@ -1,31 +1,31 @@
 ---
-name: Maintenance Report
-about: Report maintenance and housekeeping tasks
+name: Maintenance Task
+about: Report maintenance or housekeeping tasks
 title: 'Maintenance: '
 labels: ['maintenance', 'needs-triage']
 assignees: ''
 ---
 
-## Maintenance Task
-Describe the maintenance task to be performed.
+## Maintenance Task Description
+A clear and concise description of the maintenance task.
 
 ## Type of Maintenance
-- [ ] Code cleanup
+- [ ] Code cleanup/refactoring
 - [ ] Dependency updates
-- [ ] Refactoring
 - [ ] Documentation updates
 - [ ] Performance optimization
 - [ ] Security updates
-- [ ] Other (please specify)
+- [ ] Infrastructure changes
+- [ ] Other
 
 ## Rationale
-Why is this maintenance needed?
+Why is this maintenance task needed?
 
-## Scope of Work
+## Scope
 What files, modules, or areas will be affected?
 
-## Expected Outcome
-What improvements or benefits are expected?
+## Priority
+How urgent is this maintenance task?
 
-## Additional Notes
-Any other relevant information.
+## Additional Context
+Add any other context about the maintenance task here.
